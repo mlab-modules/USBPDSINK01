@@ -4,9 +4,9 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "J4","HEADER_2x03_PARALLEL","PinHeader_2x03_P2.54mm_Vertical",10.6000,39.6550,180.0000,top
 "J5","HEADER_2x01","PinHeader_2x01_P2.54mm_Vertical",24.0000,16.5700,0.0000,top
 "J6","HEADER_2x07_PARALLEL","PinHeader_2x07_P2.54mm_Vertical",14.2550,32.5250,0.0000,top
-"J7","WAGO","TerminalBlock_WAGO_236-102_1x02_P5.00mm_45Degree",35.2000,36.6000,90.0000,top
-"JP1","Jumper_2_Open","PinHeader_2x01_P2.54mm_Vertical",23.1500,35.6500,180.0000,top
-"JP3","Jumper_3_Bridged12","PinHeader_1x03_P2.54mm_Vertical",17.4000,39.6750,180.0000,top
+"J7","WAGO_2604-3102","TerminalBlock_WAGO_2604-3102_1x02_P5.00mm_Vertical",40.6000,42.1800,-90.0000,top
+"JP1","Jumper_2_Open","PinHeader_2x01_P2.54mm_Vertical",21.2400,36.1800,180.0000,top
+"JP3","Jumper_3_Bridged12","PinHeader_1x03_P2.54mm_Vertical",17.4000,39.9800,180.0000,top
 "M1","HOLE","MountingHole_3mm",10.1600,50.8000,0.0000,top
 "M2","HOLE","MountingHole_3mm",40.6400,50.8000,0.0000,top
 "M3","HOLE","MountingHole_3mm",10.1600,10.1600,0.0000,top

@@ -11,7 +11,7 @@ Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet
 10,"2x05 2.54 mm pitch header, 2 pins next to each other are connected",HEADER_2x05_PARALLEL,J2,HEADER_2x05_PARALLEL,PinHeader_2x05_P2.54mm_Vertical,1,,,
 11,"2x07 2.54 mm pitch header, 2 pins next to each other are connected",HEADER_2x07_PARALLEL,J6,HEADER_2x07_PARALLEL,PinHeader_2x07_P2.54mm_Vertical,1,,,
 12,USB 2.0-only Type-C Receptacle connector,USBC_USB4105-GF-A,J1,USBC_USB4105-GF-A,USBC GCT_USB4105-GF-A,1,,,
-13,1x02 2.54 mm pitch header,HEADER_1x02,J7,WAGO_236-102_1x02,TerminalBlock_WAGO_236-102_1x02_P5.00mm_45Degree,1,,,
+13,1x02 2.54 mm pitch header,HEADER_1x02,J7,WAGO_2604-3102,TerminalBlock_WAGO_2604-3102_1x02_P5.00mm_Vertical,1,,,
 14,"Jumper, 2-pole, open",Jumper_2_Open,JP1,Jumper_2_Open,PinHeader_2x01_P2.54mm_Vertical,1,~,,
 15,"Jumper, 3-pole, pins 1+2 closed/bridged",Jumper_3_Bridged12,JP3,Jumper_3_Bridged12,PinHeader_1x03_P2.54mm_Vertical,1,~,,
 16,"P-MOSFET transistor, drain/source/gate, 40V, 9A, 12mOhm",IRF7469PbF,Q2,IRF7469PbF,SOIC-8_3.9x4.9mm_P1.27mm,1,,1=D 2=G 3=S,VDMOS
