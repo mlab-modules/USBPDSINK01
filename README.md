@@ -2,7 +2,7 @@
 
 The [MLAB](https://www.mlab.cz) module [USBPDSINK01](https://www.mlab.cz/module/USBPDSINK01) is a powerful module containing the [TI STUSB4500 power-delivery sink controller](https://www.st.com/en/interfaces-and-transceivers/stusb4500.html). This module is designed to provide a flexible and reliable solution for various applications requiring USB power delivery.
 
-<img src="/doc/gen/img/USBPDSINK01-top.png" width="49%"/> <img src="/doc/gen/img/USBPDSINK01-bottom.png" width="49%"/> 
+<img src="doc/gen/img/USBPDSINK01-top.png" width="49%"/> <img src="doc/gen/img/USBPDSINK01-bottom.png" width="49%"/> 
 
 ## Specifications
 ### [STUSB4500](https://www.st.com/en/interfaces-and-transceivers/stusb4500.html)
@@ -61,7 +61,7 @@ The MLAB module USBPDSINK01 is ideal for a wide range of applications, including
 
 ## Schematics
 
-[![](/doc/gen/USBPDSINK01-schematic.svg)](/doc/gen/USBPDSINK01-schematic.pdf)
+[![](/doc/gen/USBPDSINK01-schematic.svg)](doc/gen/USBPDSINK01-schematic.pdf)
 
 ## Documentation
 - [STUSB4500 Datasheet](https://www.st.com/resource/en/datasheet/stusb4500.pdf)
