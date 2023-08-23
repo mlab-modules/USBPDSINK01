@@ -1,11 +1,11 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
-"C1","1u","C_0805_2012Metric",30.7500,26.2000,0.0000,bottom
-"C2","1u","C_0805_2012Metric",30.7500,30.2000,0.0000,bottom
+"C1","1u","C_0805_2012Metric",30.7500,26.0800,0.0000,bottom
+"C2","1u","C_0805_2012Metric",30.7500,30.4800,0.0000,bottom
 "C4","100n","C_0805_2012Metric",37.0000,21.8500,90.0000,bottom
 "C5","10u","C_0805_2012Metric",40.1000,38.4500,0.0000,bottom
 "C6","10u","C_0805_2012Metric",37.5200,27.4900,0.0000,bottom
 "C7","1u","C_0805_2012Metric",30.7500,28.1900,0.0000,bottom
-"C8","1u","C_0805_2012Metric",26.4200,23.8700,180.0000,bottom
+"C8","1u","C_0805_2012Metric",25.2500,23.8500,180.0000,bottom
 "D1","LED","LED_1206_2",9.5100,32.5150,0.0000,bottom
 "D2","LED","LED_1206_2",9.5450,25.1550,0.0000,bottom
 "D3","LED","LED_1206_2",9.5350,22.1250,0.0000,bottom
@@ -17,7 +17,7 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "J4","HEADER_2x03_PARALLEL","PinHeader_2x03_P2.54mm_Vertical",10.6000,39.6550,180.0000,top
 "J5","HEADER_2x01","PinHeader_2x01_P2.54mm_Vertical",24.0000,16.5700,0.0000,top
 "J6","HEADER_2x07_PARALLEL","PinHeader_2x07_P2.54mm_Vertical",14.2550,32.5250,0.0000,top
-"J7","WAGO","TerminalBlock_WAGO_236-102_1x02_P5.00mm_45Degree",35.2000,36.4000,90.0000,top
+"J7","WAGO","TerminalBlock_WAGO_236-102_1x02_P5.00mm_45Degree",35.2000,36.6000,90.0000,top
 "JP1","Jumper_2_Open","PinHeader_2x01_P2.54mm_Vertical",23.1500,35.6500,180.0000,top
 "JP3","Jumper_3_Bridged12","PinHeader_1x03_P2.54mm_Vertical",17.4000,39.6750,180.0000,top
 "M1","HOLE","MountingHole_3mm",10.1600,50.8000,0.0000,top
@@ -25,7 +25,7 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "M3","HOLE","MountingHole_3mm",10.1600,10.1600,0.0000,top
 "M4","HOLE","MountingHole_3mm",40.6400,10.1600,0.0000,top
 "Q2","IRF7469PbF","SOIC-8_3.9x4.9mm_P1.27mm",34.2950,17.3650,0.0000,bottom
-"R1","100k","R_0805_2012Metric",26.6625,35.8000,180.0000,bottom
+"R1","100k","R_0805_2012Metric",26.6625,36.2800,180.0000,bottom
 "R2","100k","R_0805_2012Metric",24.4900,38.3000,0.0000,bottom
 "R3","R","R_0805_2012Metric",11.3900,15.7825,90.0000,bottom
 "R4","R","R_0805_2012Metric",7.4700,15.8125,90.0000,bottom
@@ -33,7 +33,7 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "R6","R","R_0805_2012Metric",11.4700,35.8025,-90.0000,bottom
 "R7","R","R_0805_2012Metric",7.3700,35.7900,-90.0000,bottom
 "R8","1k","R_0805_2012Metric",35.6125,13.6000,180.0000,bottom
-"R9","1k","R_0805_2012Metric",27.0000,20.0875,90.0000,bottom
+"R9","1k","R_0805_2012Metric",27.3000,20.3375,90.0000,bottom
 "R10","100K","R_0805_2012Metric",30.2000,21.1000,0.0000,bottom
 "R11","100R","R_0805_2012Metric",35.0000,21.8125,-90.0000,bottom
 "R12","20k","R_0805_2012Metric",33.0000,21.9000,90.0000,bottom

@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,7.0.7-7.0.7~ubuntu23.04.1*%
-%TF.CreationDate,2023-08-23T20:15:37+00:00*%
+%TF.CreationDate,2023-08-23T20:38:48+00:00*%
 %TF.ProjectId,USBPDSINK01,55534250-4453-4494-9e4b-30312e6b6963,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Soldermask,Top*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.0.7-7.0.7~ubuntu23.04.1) date 2023-08-23 20:15:37*
+G04 Created by KiCad (PCBNEW 7.0.7-7.0.7~ubuntu23.04.1) date 2023-08-23 20:38:48*
 %MOMM*%
 %LPD*%
 G01*
@@ -22,9 +22,9 @@ G04 APERTURE LIST*
 G04 APERTURE END LIST*
 D10*
 %TO.C,J7*%
-X35200000Y36400000D03*
+X35200000Y36600000D03*
 D11*
-X35200000Y41400000D03*
+X35200000Y41600000D03*
 %TD*%
 D12*
 %TO.C,M3*%
