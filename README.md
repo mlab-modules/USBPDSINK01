@@ -56,12 +56,12 @@ The MLAB module USBPDSINK01 is ideal for a wide range of applications, including
 
 
 <p align="center">
-<img src="/doc/img/USBPDSINK01_render_01.png"/> 
+<img src="doc/img/USBPDSINK01_render_01.png"/> 
 </p>
 
 ## Schematics
 
-[![](/doc/gen/USBPDSINK01-schematic.svg)](doc/gen/USBPDSINK01-schematic.pdf)
+[![](doc/gen/USBPDSINK01-schematic.svg)](doc/gen/USBPDSINK01-schematic.pdf)
 
 ## Documentation
 - [STUSB4500 Datasheet](https://www.st.com/resource/en/datasheet/stusb4500.pdf)
