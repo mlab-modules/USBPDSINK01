@@ -57,8 +57,16 @@ The MLAB module USBPDSINK01 is ideal for a wide range of applications, including
 
 - **Universal Power Source:** The module can serve as a universal power source for various devices, including laptops, speakers, or other electronic devices that require USB-C power.
 
-## Documentation
 
+<p align="center">
+<img src="/doc/img/USBPDSINK01_render_01.png" width="49%"/> 
+</p>
+
+## Schematics
+
+[![](/doc/gen/USBPDSINK01-schematic.svg)](/doc/gen/USBPDSINK01-schematic.pdf)
+
+## Documentation
 - [STUSB4500 Datasheet](https://www.st.com/resource/en/datasheet/stusb4500.pdf)
 
 ## Conclusion
