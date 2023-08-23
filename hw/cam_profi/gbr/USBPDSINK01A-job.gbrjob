@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "7.0.7-7.0.7~ubuntu23.04.1"
     },
-    "CreationDate": "2023-08-23T20:38:48+00:00"
+    "CreationDate": "2023-08-23T21:32:52+00:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -82,6 +82,7 @@
   "MaterialStackup": [
     {
       "Type": "Legend",
+      "Color": "Black",
       "Name": "Top Silk Screen"
     },
     {
@@ -90,24 +91,32 @@
     },
     {
       "Type": "SolderMask",
+      "Color": "White",
+      "Thickness": 0.01,
       "Name": "Top Solder Mask"
     },
     {
       "Type": "Copper",
+      "Thickness": 0.035,
       "Name": "F.Cu"
     },
     {
       "Type": "Dielectric",
+      "Color": "R109G116B75",
+      "Thickness": 1.51,
       "Material": "FR4",
       "Name": "F.Cu/B.Cu",
       "Notes": "Type: dielectric layer 1 (from F.Cu to B.Cu)"
     },
     {
       "Type": "Copper",
+      "Thickness": 0.035,
       "Name": "B.Cu"
     },
     {
       "Type": "SolderMask",
+      "Color": "Green",
+      "Thickness": 0.01,
       "Name": "Bottom Solder Mask"
     },
     {
@@ -116,6 +125,7 @@
     },
     {
       "Type": "Legend",
+      "Color": "Black",
       "Name": "Bottom Silk Screen"
     }
   ]
