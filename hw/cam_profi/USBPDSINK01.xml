@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/USBPDSINK01.kicad_sch</source>
-    <date>Wed Aug 23 20:10:42 2023</date>
+    <date>Wed Aug 23 20:16:44 2023</date>
     <tool>Eeschema 7.0.7-7.0.7~ubuntu23.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -102,7 +102,7 @@
       <tstamps>59ae90d3-1993-4208-849f-f40ed7a81395</tstamps>
     </comp>
     <comp ref="D1">
-      <value>LED</value>
+      <value>RED</value>
       <footprint>Mlab_D:LED_1206_2</footprint>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="Sheetname" value=""/>
@@ -113,7 +113,7 @@
       <tstamps>5bf7a508-e5fd-439c-bc18-a02ef6ab6aea</tstamps>
     </comp>
     <comp ref="D2">
-      <value>LED</value>
+      <value>YELLOW</value>
       <footprint>Mlab_D:LED_1206_2</footprint>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="Sheetname" value=""/>
@@ -124,7 +124,7 @@
       <tstamps>2434f2ba-19ab-4ae9-b350-045e95245ad6</tstamps>
     </comp>
     <comp ref="D3">
-      <value>LED</value>
+      <value>ORANGE</value>
       <footprint>Mlab_D:LED_1206_2</footprint>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="Sheetname" value=""/>
@@ -135,7 +135,7 @@
       <tstamps>dc553131-da0d-42b7-818a-9fd059385078</tstamps>
     </comp>
     <comp ref="D4">
-      <value>LED</value>
+      <value>RED</value>
       <footprint>Mlab_D:LED_1206_2</footprint>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="Sheetname" value=""/>
@@ -146,7 +146,7 @@
       <tstamps>bfe7d912-97a3-4d2d-b7f0-68755a9c83e5</tstamps>
     </comp>
     <comp ref="D5">
-      <value>LED</value>
+      <value>GREEN</value>
       <footprint>Mlab_D:LED_1206_2</footprint>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="Sheetname" value=""/>
@@ -225,7 +225,7 @@
       <tstamps>610b4f14-fb05-4659-ba56-40726ef5e6f9</tstamps>
     </comp>
     <comp ref="J7">
-      <value>WAGO</value>
+      <value>WAGO_236-102_1x02</value>
       <footprint>TerminalBlock_WAGO:TerminalBlock_WAGO_236-102_1x02_P5.00mm_45Degree</footprint>
       <libsource lib="MLAB_HEADER" part="HEADER_1x02" description="1x02 2.54 mm pitch header"/>
       <property name="Sheetname" value=""/>
@@ -448,7 +448,7 @@
       <tstamps>4cdba889-a09a-4a69-9843-9a64ce8547df</tstamps>
     </comp>
     <comp ref="R13">
-      <value>R</value>
+      <value>4k7</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
@@ -459,7 +459,7 @@
       <tstamps>a6913570-421f-4dab-adf8-90fce8e97184</tstamps>
     </comp>
     <comp ref="R14">
-      <value>R</value>
+      <value>4k7</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
@@ -470,7 +470,7 @@
       <tstamps>f3d2f859-3538-468d-8d72-48c29b08a675</tstamps>
     </comp>
     <comp ref="R15">
-      <value>R</value>
+      <value>4k7</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
@@ -481,7 +481,7 @@
       <tstamps>31bad7f3-bda5-41ec-ab66-c735f7d1b0ab</tstamps>
     </comp>
     <comp ref="R16">
-      <value>R</value>
+      <value>4k7</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
@@ -492,7 +492,7 @@
       <tstamps>66f9a89b-33cc-4638-8aa2-7553cbb07be6</tstamps>
     </comp>
     <comp ref="R17">
-      <value>R</value>
+      <value>4k7</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
@@ -503,7 +503,7 @@
       <tstamps>96f08d43-81e5-4b4b-a45d-1bd79dcfcda5</tstamps>
     </comp>
     <comp ref="R18">
-      <value>R</value>
+      <value>4k7</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
@@ -514,7 +514,7 @@
       <tstamps>2b17c641-6d2d-4e99-a5e0-e44304f1cbae</tstamps>
     </comp>
     <comp ref="R19">
-      <value>R</value>
+      <value>4k7</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
@@ -525,7 +525,7 @@
       <tstamps>af7e3a15-3aac-4294-8907-52a13ee4f526</tstamps>
     </comp>
     <comp ref="R20">
-      <value>R</value>
+      <value>4k7</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
@@ -536,7 +536,7 @@
       <tstamps>5517b41d-bb68-4777-840c-7b044421e516</tstamps>
     </comp>
     <comp ref="R21">
-      <value>R</value>
+      <value>4k7</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
