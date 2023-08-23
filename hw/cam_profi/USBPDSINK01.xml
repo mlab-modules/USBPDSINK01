@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/USBPDSINK01.kicad_sch</source>
-    <date>Wed Aug 23 21:33:37 2023</date>
+    <date>Wed Aug 23 22:23:23 2023</date>
     <tool>Eeschema 7.0.7-7.0.7~ubuntu23.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -225,8 +225,8 @@
       <tstamps>610b4f14-fb05-4659-ba56-40726ef5e6f9</tstamps>
     </comp>
     <comp ref="J7">
-      <value>WAGO_236-102_1x02</value>
-      <footprint>TerminalBlock_WAGO:TerminalBlock_WAGO_236-102_1x02_P5.00mm_45Degree</footprint>
+      <value>WAGO_2604-3102</value>
+      <footprint>Mlab_CON:TerminalBlock_WAGO_2604-3102_1x02_P5.00mm_Vertical</footprint>
       <libsource lib="MLAB_HEADER" part="HEADER_1x02" description="1x02 2.54 mm pitch header"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
@@ -1031,7 +1031,7 @@
       <node ref="J4" pin="2" pintype="input"/>
       <node ref="J4" pin="5" pintype="input"/>
       <node ref="J4" pin="6" pintype="input"/>
-      <node ref="J7" pin="2" pintype="input"/>
+      <node ref="J7" pin="1" pintype="input"/>
       <node ref="JP1" pin="2" pinfunction="B" pintype="passive"/>
       <node ref="M1" pin="1" pintype="input"/>
       <node ref="M2" pin="1" pintype="input"/>
@@ -1137,7 +1137,7 @@
       <node ref="J3" pin="4" pintype="input"/>
       <node ref="J3" pin="5" pintype="input"/>
       <node ref="J3" pin="6" pintype="input"/>
-      <node ref="J7" pin="1" pintype="input"/>
+      <node ref="J7" pin="2" pintype="input"/>
       <node ref="Q2" pin="5" pinfunction="D" pintype="passive"/>
       <node ref="Q2" pin="6" pinfunction="D" pintype="passive"/>
       <node ref="Q2" pin="7" pinfunction="D" pintype="passive"/>
