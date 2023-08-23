@@ -3,8 +3,17 @@ github_branch: USBPDSINK01A
 github_repo: USBPDSINK01
 github_url: https://github.com/mlab-modules/USBPDSINK01
 homepage: false
-images: []
+images:
+- doc/gen/img/USBPDSINK01-top.png
+- doc/gen/img/USBPDSINK01-bottom.png
+- doc/gen/USBPDSINK01-schematic.svg
+- doc/gen/img/USBPDSINK01-top.svg
+- doc/gen/img/USBPDSINK01-bottom.svg
+- hw/cam_profi/assembly/USBPDSINK01-assembly_page_01.svg
+- hw/cam_profi/assembly/USBPDSINK01-assembly_page_02.svg
 mark: 50
+mod_ibom: hw/cam_profi/USBPDSINK01-ibom.html
+mod_scheme: doc/gen/USBPDSINK01-schematic.pdf
 tags: []
 title: USBPDSINK01
-updated: '2023-08-23T14:35:57.670638+00:00'
+updated: '2023-08-23T14:38:19.068164+00:00'
