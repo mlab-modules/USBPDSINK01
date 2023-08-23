@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "USBPDSINK01A")
+    (company "www.mlab.cz")
+    (comment 1 "USB-C PD sink controller")
+    (comment 2 "roman-dvorak <romandvorak@mlab.cz>")
+  )
+
   (lib_symbols
     (symbol "Device:C_Small" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 0.254 1.778 0)
