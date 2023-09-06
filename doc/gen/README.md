@@ -66,7 +66,7 @@ Eurocircuits class: 6D
 Components count: (SMD/THT)
 
 - Top: 0/12 (THT)
-- Bottom: 39/0 (SMD)
+- Bottom: 40/0 (SMD)
 
 Defined tracks:
 
@@ -77,10 +77,10 @@ Defined tracks:
 
 Used tracks:
 
-- 0.25 mm (10 mils) (62) defined: yes
-- 0.3 mm (12 mils) (183) defined: yes
-- 0.5 mm (20 mils) (43) defined: yes
-- 0.6 mm (24 mils) (50) defined: yes
+- 0.25 mm (10 mils) (61) defined: yes
+- 0.3 mm (12 mils) (176) defined: yes
+- 0.5 mm (20 mils) (40) defined: yes
+- 0.6 mm (24 mils) (47) defined: yes
 - 1.0 mm (39 mils) (4) defined: no
 
 Defined vias:

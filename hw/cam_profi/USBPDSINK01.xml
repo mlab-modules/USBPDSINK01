@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/USBPDSINK01.kicad_sch</source>
-    <date>Wed Aug 23 22:46:19 2023</date>
+    <date>Wed Sep  6 20:42:24 2023</date>
     <tool>Eeschema 7.0.7-7.0.7~ubuntu23.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -27,7 +27,12 @@
     <comp ref="C1">
       <value>1u</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN">C0805 1u</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MFPN" value="C0805 1u"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
@@ -38,7 +43,12 @@
     <comp ref="C2">
       <value>1u</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN">C0805 1u</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MFPN" value="C0805 1u"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
@@ -49,7 +59,12 @@
     <comp ref="C4">
       <value>100n</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN">C0805 100n</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MFPN" value="C0805 100n"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
@@ -60,7 +75,12 @@
     <comp ref="C5">
       <value>10u</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN">C0805 10u</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MFPN" value="C0805 10u"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
@@ -71,7 +91,12 @@
     <comp ref="C6">
       <value>10u</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN">C0805 10u</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MFPN" value="C0805 10u"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
@@ -82,7 +107,12 @@
     <comp ref="C7">
       <value>1u</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN">C0805 1u</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MFPN" value="C0805 1u"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
@@ -93,7 +123,12 @@
     <comp ref="C8">
       <value>1u</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN">C0805 1u</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MFPN" value="C0805 1u"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
@@ -103,8 +138,13 @@
     </comp>
     <comp ref="D1">
       <value>RED</value>
-      <footprint>Mlab_D:LED_1206_2</footprint>
+      <footprint>Mlab_D:LED_1206_mill</footprint>
+      <fields>
+        <field name="MFPN">KPTR-3216SURCK</field>
+      </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="MFPN" value="KPTR-3216SURCK"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="Light emitting diode"/>
@@ -114,8 +154,13 @@
     </comp>
     <comp ref="D2">
       <value>YELLOW</value>
-      <footprint>Mlab_D:LED_1206_2</footprint>
+      <footprint>Mlab_D:LED_1206_mill</footprint>
+      <fields>
+        <field name="MFPN">KPTR-3216SYCK</field>
+      </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="MFPN" value="KPTR-3216SYCK"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="Light emitting diode"/>
@@ -124,9 +169,14 @@
       <tstamps>2434f2ba-19ab-4ae9-b350-045e95245ad6</tstamps>
     </comp>
     <comp ref="D3">
-      <value>ORANGE</value>
-      <footprint>Mlab_D:LED_1206_2</footprint>
+      <value>BLUE</value>
+      <footprint>Mlab_D:LED_1206_mill</footprint>
+      <fields>
+        <field name="MFPN">KPTR-3216QBC-D</field>
+      </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="MFPN" value="KPTR-3216QBC-D"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="Light emitting diode"/>
@@ -136,8 +186,13 @@
     </comp>
     <comp ref="D4">
       <value>RED</value>
-      <footprint>Mlab_D:LED_1206_2</footprint>
+      <footprint>Mlab_D:LED_1206_mill</footprint>
+      <fields>
+        <field name="MFPN">KPTR-3216SURCK</field>
+      </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="MFPN" value="KPTR-3216SURCK"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="Light emitting diode"/>
@@ -147,8 +202,13 @@
     </comp>
     <comp ref="D5">
       <value>GREEN</value>
-      <footprint>Mlab_D:LED_1206_2</footprint>
+      <footprint>Mlab_D:LED_1206_mill</footprint>
+      <fields>
+        <field name="MFPN">KPTR-3216CGCK</field>
+      </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="MFPN" value="KPTR-3216CGCK"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="Light emitting diode"/>
@@ -156,10 +216,64 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a4a3043b-31bc-4ab7-932f-bb60ff4d539f</tstamps>
     </comp>
+    <comp ref="FID1">
+      <value>Fiducial</value>
+      <footprint>Fiducial:Fiducial_1mm_Mask2mm</footprint>
+      <fields>
+        <field name="MFPN"/>
+      </fields>
+      <libsource lib="Mechanical" part="Fiducial" description="Fiducial Marker"/>
+      <property name="MFPN" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
+      <property name="exclude_from_bom"/>
+      <property name="ki_description" value="Fiducial Marker"/>
+      <property name="ki_keywords" value="fiducial marker"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>269ac5b7-bf92-4b77-8461-a039eac164bd</tstamps>
+    </comp>
+    <comp ref="FID2">
+      <value>Fiducial</value>
+      <footprint>Fiducial:Fiducial_1mm_Mask2mm</footprint>
+      <fields>
+        <field name="MFPN"/>
+      </fields>
+      <libsource lib="Mechanical" part="Fiducial" description="Fiducial Marker"/>
+      <property name="MFPN" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
+      <property name="exclude_from_bom"/>
+      <property name="ki_description" value="Fiducial Marker"/>
+      <property name="ki_keywords" value="fiducial marker"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1dbb2757-839b-4e38-8c7f-80fe2eb65513</tstamps>
+    </comp>
+    <comp ref="FID3">
+      <value>Fiducial</value>
+      <footprint>Fiducial:Fiducial_1mm_Mask2mm</footprint>
+      <fields>
+        <field name="MFPN"/>
+      </fields>
+      <libsource lib="Mechanical" part="Fiducial" description="Fiducial Marker"/>
+      <property name="MFPN" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
+      <property name="exclude_from_bom"/>
+      <property name="ki_description" value="Fiducial Marker"/>
+      <property name="ki_keywords" value="fiducial marker"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d336e97-a517-4f24-9cfa-746a1c08a1e2</tstamps>
+    </comp>
     <comp ref="J1">
       <value>USBC_USB4105-GF-A</value>
       <footprint>Mlab_CON:USBC GCT_USB4105-GF-A</footprint>
+      <fields>
+        <field name="MFPN">USB4105-GF-A</field>
+        <field name="UST_ID">5fa0f94612875025b397795e</field>
+      </fields>
       <libsource lib="MLAB_CONNECTORS" part="USBC_USB4105-GF-A" description="USB 2.0-only Type-C Receptacle connector"/>
+      <property name="MFPN" value="USB4105-GF-A"/>
+      <property name="UST_ID" value="5fa0f94612875025b397795e"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="USB 2.0-only Type-C Receptacle connector"/>
@@ -170,7 +284,12 @@
     <comp ref="J2">
       <value>HEADER_2x05_PARALLEL</value>
       <footprint>Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="MFPN"/>
+      </fields>
       <libsource lib="MLAB_HEADER" part="HEADER_2x05_PARALLEL" description="2x05 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="MFPN" value=""/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="2x05 2.54 mm pitch header, 2 pins next to each other are connected"/>
@@ -181,7 +300,12 @@
     <comp ref="J3">
       <value>HEADER_2x04_PARALLEL</value>
       <footprint>Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="MFPN"/>
+      </fields>
       <libsource lib="MLAB_HEADER" part="HEADER_2x04_PARALLEL" description="2x04 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="MFPN" value=""/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="2x04 2.54 mm pitch header, 2 pins next to each other are connected"/>
@@ -192,7 +316,12 @@
     <comp ref="J4">
       <value>HEADER_2x03_PARALLEL</value>
       <footprint>Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="MFPN"/>
+      </fields>
       <libsource lib="MLAB_HEADER" part="HEADER_2x03_PARALLEL" description="2x03 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="MFPN" value=""/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="2x03 2.54 mm pitch header, 2 pins next to each other are connected"/>
@@ -203,7 +332,12 @@
     <comp ref="J5">
       <value>HEADER_2x01</value>
       <footprint>Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="MFPN"/>
+      </fields>
       <libsource lib="MLAB_HEADER" part="HEADER_2x01" description="2x01 2.54 mm pitch header"/>
+      <property name="MFPN" value=""/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="exclude_from_bom"/>
@@ -216,7 +350,12 @@
     <comp ref="J6">
       <value>HEADER_2x07_PARALLEL</value>
       <footprint>Connector_PinHeader_2.54mm:PinHeader_2x07_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="MFPN"/>
+      </fields>
       <libsource lib="MLAB_HEADER" part="HEADER_2x07_PARALLEL" description="2x07 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="MFPN" value=""/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="2x07 2.54 mm pitch header, 2 pins next to each other are connected"/>
@@ -227,7 +366,12 @@
     <comp ref="J7">
       <value>WAGO_2604-3102</value>
       <footprint>Mlab_CON:TerminalBlock_WAGO_2604-3102_1x02_P5.00mm_Vertical</footprint>
+      <fields>
+        <field name="MFPN">2604-3102</field>
+      </fields>
       <libsource lib="MLAB_HEADER" part="HEADER_1x02" description="1x02 2.54 mm pitch header"/>
+      <property name="MFPN" value="2604-3102"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="1x02 2.54 mm pitch header"/>
@@ -238,7 +382,12 @@
     <comp ref="JP1">
       <value>Jumper_2_Open</value>
       <footprint>Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="MFPN"/>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="MFPN" value=""/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="Jumper, 2-pole, open"/>
@@ -246,10 +395,30 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>78063529-a39a-48c6-8739-f689c8771c2f</tstamps>
     </comp>
+    <comp ref="JP2">
+      <value>Jumper_3_Bridged12</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm</footprint>
+      <fields>
+        <field name="MFPN"/>
+      </fields>
+      <libsource lib="Jumper" part="Jumper_3_Bridged12" description="Jumper, 3-pole, pins 1+2 closed/bridged"/>
+      <property name="MFPN" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
+      <property name="ki_description" value="Jumper, 3-pole, pins 1+2 closed/bridged"/>
+      <property name="ki_keywords" value="Jumper SPDT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d7e279c5-6252-4e34-a436-75eda2842af5</tstamps>
+    </comp>
     <comp ref="JP3">
       <value>Jumper_3_Bridged12</value>
       <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="MFPN"/>
+      </fields>
       <libsource lib="Jumper" part="Jumper_3_Bridged12" description="Jumper, 3-pole, pins 1+2 closed/bridged"/>
+      <property name="MFPN" value=""/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="Jumper, 3-pole, pins 1+2 closed/bridged"/>
@@ -260,9 +429,15 @@
     <comp ref="M1">
       <value>HOLE</value>
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <fields>
+        <field name="MFPN">DIN913 M3x12</field>
+      </fields>
       <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
+      <property name="MFPN" value="DIN913 M3x12"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
+      <property name="exclude_from_bom"/>
       <property name="ki_keywords" value="HOLE, X, M"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>81c00044-ced8-4c8d-8785-2048d13ff9ff</tstamps>
@@ -270,9 +445,15 @@
     <comp ref="M2">
       <value>HOLE</value>
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <fields>
+        <field name="MFPN">DIN913 M3x12</field>
+      </fields>
       <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
+      <property name="MFPN" value="DIN913 M3x12"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
+      <property name="exclude_from_bom"/>
       <property name="ki_keywords" value="HOLE, X, M"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a8a4bccb-3580-4707-8f9c-93b67563ca65</tstamps>
@@ -280,9 +461,15 @@
     <comp ref="M3">
       <value>HOLE</value>
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <fields>
+        <field name="MFPN">DIN913 M3x12</field>
+      </fields>
       <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
+      <property name="MFPN" value="DIN913 M3x12"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
+      <property name="exclude_from_bom"/>
       <property name="ki_keywords" value="HOLE, X, M"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>9ace0d9c-d164-40b5-9e87-d1e76f5d0985</tstamps>
@@ -290,24 +477,34 @@
     <comp ref="M4">
       <value>HOLE</value>
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <fields>
+        <field name="MFPN">DIN913 M3x12</field>
+      </fields>
       <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
+      <property name="MFPN" value="DIN913 M3x12"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
+      <property name="exclude_from_bom"/>
       <property name="ki_keywords" value="HOLE, X, M"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8409809c-e9fa-4736-89c2-9160cbc6c505</tstamps>
     </comp>
     <comp ref="Q2">
-      <value>IRF7469PbF</value>
+      <value>IRF9317TRPBF</value>
       <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
       <fields>
+        <field name="MFPN">IRF9317TRPBF </field>
         <field name="Sim.Pins">1=D 2=G 3=S</field>
         <field name="Sim.Type">VDMOS</field>
+        <field name="UST_ID">64f8de80f3b9d36f37fc9304</field>
       </fields>
       <libsource lib="MLAB_T" part="IRF7469PbF" description="P-MOSFET transistor, drain/source/gate, 40V, 9A, 12mOhm"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Type" value="VDMOS"/>
       <property name="Sim.Pins" value="1=D 2=G 3=S"/>
+      <property name="MFPN" value="IRF9317TRPBF "/>
+      <property name="UST_ID" value="64f8de80f3b9d36f37fc9304"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="P-MOSFET transistor, drain/source/gate, 40V, 9A, 12mOhm"/>
@@ -318,7 +515,12 @@
     <comp ref="R1">
       <value>100k</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN">R0805 100K 1%</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="MFPN" value="R0805 100K 1%"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -326,21 +528,15 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>75b4ce5c-8026-4024-bbca-792f166995f6</tstamps>
     </comp>
-    <comp ref="R2">
-      <value>100k</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
-      <property name="ki_description" value="Resistor, small symbol"/>
-      <property name="ki_keywords" value="R resistor"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>5c3914be-073a-48b8-a5c7-9ecd7fe0ef1f</tstamps>
-    </comp>
     <comp ref="R3">
-      <value>R</value>
+      <value>65R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN">R0805 65R 1%</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="MFPN" value="R0805 65R 1%"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -349,9 +545,14 @@
       <tstamps>ffef39d6-9592-4198-8d74-92b0f2a5c7d6</tstamps>
     </comp>
     <comp ref="R4">
-      <value>R</value>
+      <value>R10</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN">R0805 10R 1%</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="MFPN" value="R0805 10R 1%"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -360,9 +561,14 @@
       <tstamps>9253b3bd-0ba3-45ca-9e53-f5f54070bc80</tstamps>
     </comp>
     <comp ref="R5">
-      <value>R</value>
+      <value>65R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN">R0805 65R 1%</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="MFPN" value="R0805 65R 1%"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -371,9 +577,14 @@
       <tstamps>73eb6c8d-35e6-4c42-bdd4-fbdc8f5ba3f1</tstamps>
     </comp>
     <comp ref="R6">
-      <value>R</value>
+      <value>65R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN">R0805 65R 1%</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="MFPN" value="R0805 65R 1%"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -382,9 +593,14 @@
       <tstamps>5b4c545b-022a-43a2-9e5b-ba045858a4df</tstamps>
     </comp>
     <comp ref="R7">
-      <value>R</value>
+      <value>60R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN">R0805 60R 1%</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="MFPN" value="R0805 60R 1%"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -395,7 +611,12 @@
     <comp ref="R8">
       <value>1k</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN">R0805 1k 1%</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="MFPN" value="R0805 1k 1%"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -406,7 +627,12 @@
     <comp ref="R9">
       <value>1k</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN">R0805 1k 1%</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="MFPN" value="R0805 1k 1%"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -415,9 +641,14 @@
       <tstamps>0a53a06f-4393-4252-ae90-f1a547c08b1e</tstamps>
     </comp>
     <comp ref="R10">
-      <value>100K</value>
+      <value>100k</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN">R0805 100K 1%</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="MFPN" value="R0805 100K 1%"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -428,7 +659,12 @@
     <comp ref="R11">
       <value>100R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN">R0805 100R 1%</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="MFPN" value="R0805 100R 1%"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -439,7 +675,12 @@
     <comp ref="R12">
       <value>20k</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN">R0805 20k 1%</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="MFPN" value="R0805 20k 1%"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -450,7 +691,12 @@
     <comp ref="R13">
       <value>4k7</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN">R0805 4k7 1%</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="MFPN" value="R0805 4k7 1%"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -461,7 +707,12 @@
     <comp ref="R14">
       <value>4k7</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN">R0805 4k7 1%</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="MFPN" value="R0805 4k7 1%"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -472,7 +723,12 @@
     <comp ref="R15">
       <value>4k7</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN">R0805 4k7 1%</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="MFPN" value="R0805 4k7 1%"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -483,7 +739,12 @@
     <comp ref="R16">
       <value>4k7</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN">R0805 4k7 1%</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="MFPN" value="R0805 4k7 1%"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -494,7 +755,12 @@
     <comp ref="R17">
       <value>4k7</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN">R0805 4k7 1%</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="MFPN" value="R0805 4k7 1%"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -505,7 +771,12 @@
     <comp ref="R18">
       <value>4k7</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN">R0805 4k7 1%</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="MFPN" value="R0805 4k7 1%"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -516,7 +787,12 @@
     <comp ref="R19">
       <value>4k7</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN">R0805 4k7 1%</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="MFPN" value="R0805 4k7 1%"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -527,7 +803,12 @@
     <comp ref="R20">
       <value>4k7</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN">R0805 4k7 1%</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="MFPN" value="R0805 4k7 1%"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -538,7 +819,12 @@
     <comp ref="R21">
       <value>4k7</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN">R0805 4k7 1%</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="MFPN" value="R0805 4k7 1%"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -547,9 +833,14 @@
       <tstamps>e8249d60-05f2-4c86-98fc-4400872d5d4b</tstamps>
     </comp>
     <comp ref="R22">
-      <value>100K</value>
+      <value>100k</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN">R0805 100K 1%</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="MFPN" value="R0805 100K 1%"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -557,23 +848,17 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d249359b-6cca-41cb-86f9-5a68085565e7</tstamps>
     </comp>
-    <comp ref="R23">
-      <value>100K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
-      <property name="dnp"/>
-      <property name="ki_description" value="Resistor, small symbol"/>
-      <property name="ki_keywords" value="R resistor"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>4fd98b43-f017-4978-9d71-17144b6788b3</tstamps>
-    </comp>
     <comp ref="U1">
       <value>STUSB4500QTR</value>
       <footprint>Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm</footprint>
       <datasheet>https://www.st.com/resource/en/datasheet/stusb4500.pdf</datasheet>
+      <fields>
+        <field name="MFPN">STUSB4500QTR</field>
+        <field name="UST_ID">64f8daa2f3b9d36f37fc92aa</field>
+      </fields>
       <libsource lib="Interface_USB" part="STUSB4500QTR" description="Stand-alone USB PD controller (with sink Auto-run mode), QFN-24"/>
+      <property name="MFPN" value="STUSB4500QTR"/>
+      <property name="UST_ID" value="64f8daa2f3b9d36f37fc92aa"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="Stand-alone USB PD controller (with sink Auto-run mode), QFN-24"/>
@@ -585,7 +870,13 @@
       <value>NCP1117-3.3</value>
       <footprint>Package_TO_SOT_SMD:SOT-223-3_TabPin2</footprint>
       <datasheet>http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF</datasheet>
+      <fields>
+        <field name="MFPN">NCP1117DT33G</field>
+        <field name="UST_ID">5c70984712875079b91f8af9</field>
+      </fields>
       <libsource lib="Regulator_Linear" part="NCP1117-3.3_SOT223" description="1A Low drop-out regulator, Fixed Output 3.3V, SOT-223"/>
+      <property name="MFPN" value="NCP1117DT33G"/>
+      <property name="UST_ID" value="5c70984712875079b91f8af9"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="1A Low drop-out regulator, Fixed Output 3.3V, SOT-223"/>
@@ -874,6 +1165,18 @@
         <pin num="8" name="D" type="passive"/>
       </pins>
     </libpart>
+    <libpart lib="Mechanical" part="Fiducial">
+      <description>Fiducial Marker</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Fiducial*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">FID</field>
+        <field name="Value">Fiducial</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
     <libpart lib="Regulator_Linear" part="NCP1117-3.3_SOT223">
       <description>1A Low drop-out regulator, Fixed Output 3.3V, SOT-223</description>
       <docs>http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF</docs>
@@ -903,6 +1206,9 @@
     <library logical="Jumper">
       <uri>/usr/share/kicad/symbols//Jumper.kicad_sym</uri>
     </library>
+    <library logical="Mechanical">
+      <uri>/usr/share/kicad/symbols//Mechanical.kicad_sym</uri>
+    </library>
     <library logical="Regulator_Linear">
       <uri>/usr/share/kicad/symbols//Regulator_Linear.kicad_sym</uri>
     </library>
@@ -924,8 +1230,7 @@
       <node ref="U1" pin="12" pinfunction="ADDR0" pintype="input"/>
     </net>
     <net code="3" name="/ADDR1">
-      <node ref="R2" pin="2" pintype="passive"/>
-      <node ref="R23" pin="1" pintype="passive"/>
+      <node ref="JP2" pin="2" pinfunction="C" pintype="passive"/>
       <node ref="U1" pin="13" pinfunction="ADDR1" pintype="input"/>
     </net>
     <net code="4" name="/ALERT">
@@ -946,67 +1251,60 @@
       <node ref="R8" pin="2" pintype="passive"/>
       <node ref="U1" pin="9" pinfunction="DISCH" pintype="bidirectional"/>
     </net>
-    <net code="7" name="/EXT_PWR">
-      <node ref="J2" pin="5" pintype="input"/>
-      <node ref="J2" pin="6" pintype="input"/>
-      <node ref="J4" pin="3" pintype="input"/>
-      <node ref="J4" pin="4" pintype="input"/>
-      <node ref="JP3" pin="3" pinfunction="B" pintype="passive"/>
-    </net>
-    <net code="8" name="/GPIO">
+    <net code="7" name="/GPIO">
       <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="J6" pin="7" pintype="input"/>
       <node ref="J6" pin="8" pintype="input"/>
       <node ref="R18" pin="2" pintype="passive"/>
       <node ref="U1" pin="15" pinfunction="GPIO" pintype="open_collector"/>
     </net>
-    <net code="9" name="/PWR_OK2">
+    <net code="8" name="/PWR_OK2">
       <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="J6" pin="10" pintype="input"/>
       <node ref="J6" pin="9" pintype="input"/>
       <node ref="R19" pin="2" pintype="passive"/>
       <node ref="U1" pin="20" pinfunction="POWER_OK2" pintype="open_collector"/>
     </net>
-    <net code="10" name="/PWR_OK3">
+    <net code="9" name="/PWR_OK3">
       <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="J6" pin="11" pintype="input"/>
       <node ref="J6" pin="12" pintype="input"/>
       <node ref="R20" pin="2" pintype="passive"/>
       <node ref="U1" pin="14" pinfunction="POWER_OK3" pintype="open_collector"/>
     </net>
-    <net code="11" name="/RESET">
+    <net code="10" name="/RESET">
       <node ref="J6" pin="13" pintype="input"/>
       <node ref="J6" pin="14" pintype="input"/>
       <node ref="R21" pin="2" pintype="passive"/>
       <node ref="U1" pin="6" pinfunction="RESET" pintype="input"/>
     </net>
-    <net code="12" name="/SCL">
+    <net code="11" name="/SCL">
       <node ref="J2" pin="7" pintype="input"/>
       <node ref="J2" pin="8" pintype="input"/>
       <node ref="R14" pin="2" pintype="passive"/>
       <node ref="U1" pin="7" pinfunction="SCL" pintype="input"/>
     </net>
-    <net code="13" name="/SDA">
+    <net code="12" name="/SDA">
       <node ref="J2" pin="3" pintype="input"/>
       <node ref="J2" pin="4" pintype="input"/>
       <node ref="R13" pin="2" pintype="passive"/>
       <node ref="U1" pin="8" pinfunction="SDA" pintype="bidirectional"/>
     </net>
-    <net code="14" name="/SIDE">
+    <net code="13" name="/SIDE">
       <node ref="J6" pin="3" pintype="input"/>
       <node ref="J6" pin="4" pintype="input"/>
       <node ref="R16" pin="2" pintype="passive"/>
       <node ref="U1" pin="17" pinfunction="A_B_SIDE" pintype="open_collector"/>
     </net>
-    <net code="15" name="/VBUS_EN_SINK">
+    <net code="14" name="/VBUS_EN_SINK">
       <node ref="R12" pin="2" pintype="passive"/>
       <node ref="U1" pin="16" pinfunction="VBUS_EN_SNK" pintype="open_collector"/>
     </net>
-    <net code="16" name="/VBUS_VS_DISCH">
+    <net code="15" name="/VBUS_VS_DISCH">
       <node ref="R9" pin="2" pintype="passive"/>
       <node ref="U1" pin="18" pinfunction="VBUS_VS_DISCH" pintype="input"/>
     </net>
-    <net code="17" name="GND">
+    <net code="16" name="GND">
       <node ref="C1" pin="2" pintype="passive"/>
       <node ref="C2" pin="2" pintype="passive"/>
       <node ref="C5" pin="2" pintype="passive"/>
@@ -1022,6 +1320,8 @@
       <node ref="J2" pin="1" pintype="input"/>
       <node ref="J2" pin="10" pintype="input"/>
       <node ref="J2" pin="2" pintype="input"/>
+      <node ref="J2" pin="5" pintype="input"/>
+      <node ref="J2" pin="6" pintype="input"/>
       <node ref="J2" pin="9" pintype="input"/>
       <node ref="J3" pin="1" pintype="input"/>
       <node ref="J3" pin="2" pintype="input"/>
@@ -1029,79 +1329,82 @@
       <node ref="J3" pin="8" pintype="input"/>
       <node ref="J4" pin="1" pintype="input"/>
       <node ref="J4" pin="2" pintype="input"/>
+      <node ref="J4" pin="3" pintype="input"/>
+      <node ref="J4" pin="4" pintype="input"/>
       <node ref="J4" pin="5" pintype="input"/>
       <node ref="J4" pin="6" pintype="input"/>
       <node ref="J7" pin="1" pintype="input"/>
       <node ref="JP1" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="JP2" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="JP3" pin="3" pinfunction="B" pintype="passive"/>
       <node ref="M1" pin="1" pintype="input"/>
       <node ref="M2" pin="1" pintype="input"/>
       <node ref="M3" pin="1" pintype="input"/>
       <node ref="M4" pin="1" pintype="input"/>
       <node ref="R22" pin="1" pintype="passive"/>
-      <node ref="R23" pin="2" pintype="passive"/>
       <node ref="U1" pin="10" pinfunction="GND" pintype="power_in"/>
       <node ref="U1" pin="25" pinfunction="GND" pintype="passive"/>
       <node ref="U2" pin="1" pinfunction="GND" pintype="power_in"/>
     </net>
-    <net code="18" name="Net-(C4-Pad2)">
+    <net code="17" name="Net-(C4-Pad2)">
       <node ref="C4" pin="2" pintype="passive"/>
       <node ref="R11" pin="1" pintype="passive"/>
     </net>
-    <net code="19" name="Net-(D1-A)">
+    <net code="18" name="Net-(D1-A)">
       <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="R6" pin="2" pintype="passive"/>
     </net>
-    <net code="20" name="Net-(D2-A)">
+    <net code="19" name="Net-(D2-A)">
       <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="R5" pin="2" pintype="passive"/>
     </net>
-    <net code="21" name="Net-(D3-A)">
+    <net code="20" name="Net-(D3-A)">
       <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="R4" pin="2" pintype="passive"/>
     </net>
-    <net code="22" name="Net-(D4-A)">
+    <net code="21" name="Net-(D4-A)">
       <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="R3" pin="2" pintype="passive"/>
     </net>
-    <net code="23" name="Net-(D5-A)">
+    <net code="22" name="Net-(D5-A)">
       <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="R7" pin="2" pintype="passive"/>
     </net>
-    <net code="24" name="Net-(J1-CC1)">
+    <net code="23" name="Net-(J1-CC1)">
       <node ref="J1" pin="A5" pinfunction="CC1" pintype="bidirectional"/>
       <node ref="U1" pin="1" pinfunction="CC1DB" pintype="bidirectional"/>
       <node ref="U1" pin="2" pinfunction="CC1" pintype="bidirectional"/>
     </net>
-    <net code="25" name="Net-(J1-CC2)">
+    <net code="24" name="Net-(J1-CC2)">
       <node ref="J1" pin="B5" pinfunction="CC2" pintype="bidirectional"/>
       <node ref="U1" pin="4" pinfunction="CC2" pintype="bidirectional"/>
       <node ref="U1" pin="5" pinfunction="CC2DB" pintype="bidirectional"/>
     </net>
-    <net code="26" name="Net-(J1-D+-PadA6)">
+    <net code="25" name="Net-(J1-D+-PadA6)">
       <node ref="J1" pin="A6" pinfunction="D+" pintype="bidirectional"/>
       <node ref="J1" pin="B6" pinfunction="D+" pintype="bidirectional"/>
       <node ref="J5" pin="1" pintype="input"/>
     </net>
-    <net code="27" name="Net-(J1-D--PadA7)">
+    <net code="26" name="Net-(J1-D--PadA7)">
       <node ref="J1" pin="A7" pinfunction="D-" pintype="bidirectional"/>
       <node ref="J1" pin="B7" pinfunction="D-" pintype="bidirectional"/>
       <node ref="J5" pin="2" pintype="input"/>
     </net>
-    <net code="28" name="Net-(Q2-G)">
+    <net code="27" name="Net-(Q2-G)">
       <node ref="Q2" pin="4" pinfunction="G" pintype="passive"/>
       <node ref="R10" pin="2" pintype="passive"/>
       <node ref="R11" pin="2" pintype="passive"/>
       <node ref="R12" pin="1" pintype="passive"/>
     </net>
-    <net code="29" name="Net-(U1-VREG_1V2)">
+    <net code="28" name="Net-(U1-VREG_1V2)">
       <node ref="C2" pin="1" pintype="passive"/>
       <node ref="U1" pin="21" pinfunction="VREG_1V2" pintype="power_out"/>
     </net>
-    <net code="30" name="Net-(U1-VREG_2V7)">
+    <net code="29" name="Net-(U1-VREG_2V7)">
       <node ref="C1" pin="1" pintype="passive"/>
       <node ref="U1" pin="23" pinfunction="VREG_2V7" pintype="power_out"/>
     </net>
-    <net code="31" name="VBUS">
+    <net code="30" name="VBUS">
       <node ref="C6" pin="1" pintype="passive"/>
       <node ref="C8" pin="1" pintype="passive"/>
       <node ref="J1" pin="A4/B9" pinfunction="VBUS" pintype="passive"/>
@@ -1114,8 +1417,9 @@
       <node ref="U1" pin="24" pinfunction="VDD" pintype="power_in"/>
       <node ref="U2" pin="3" pinfunction="VI" pintype="power_in"/>
     </net>
-    <net code="32" name="VCC">
+    <net code="31" name="VCC">
       <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="JP2" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="JP3" pin="2" pinfunction="C" pintype="passive"/>
       <node ref="R1" pin="1" pintype="passive"/>
       <node ref="R13" pin="1" pintype="passive"/>
@@ -1125,13 +1429,12 @@
       <node ref="R17" pin="1" pintype="passive"/>
       <node ref="R18" pin="1" pintype="passive"/>
       <node ref="R19" pin="1" pintype="passive"/>
-      <node ref="R2" pin="1" pintype="passive"/>
       <node ref="R20" pin="1" pintype="passive"/>
       <node ref="R21" pin="1" pintype="passive"/>
       <node ref="R22" pin="2" pintype="passive"/>
       <node ref="U1" pin="22" pinfunction="VSYS" pintype="power_in"/>
     </net>
-    <net code="33" name="VDC">
+    <net code="32" name="VDC">
       <node ref="C4" pin="1" pintype="passive"/>
       <node ref="J3" pin="3" pintype="input"/>
       <node ref="J3" pin="4" pintype="input"/>
@@ -1144,13 +1447,13 @@
       <node ref="Q2" pin="8" pinfunction="D" pintype="passive"/>
       <node ref="R8" pin="1" pintype="passive"/>
     </net>
-    <net code="34" name="unconnected-(J1-SBU1-PadA8)">
+    <net code="33" name="unconnected-(J1-SBU1-PadA8)">
       <node ref="J1" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="35" name="unconnected-(J1-SBU2-PadB8)">
+    <net code="34" name="unconnected-(J1-SBU2-PadB8)">
       <node ref="J1" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="36" name="unconnected-(U1-NC-Pad3)">
+    <net code="35" name="unconnected-(U1-NC-Pad3)">
       <node ref="U1" pin="3" pinfunction="NC" pintype="no_connect"/>
     </net>
   </nets>
