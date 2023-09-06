@@ -5,4 +5,6 @@ eda:
   type: kicad
 gerbers: hw/cam_profi/
 site: https://github.com/mlab-modules/USBPDSINK01
-summary: null
+summary: The MLAB module USBPDSINK01 features the TI STUSB4500 controller, offering
+  flexible USB power delivery solutions. It's ideal for device charging, scientific
+  applications, testing, and serves as a universal power source.

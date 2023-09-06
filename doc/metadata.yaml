@@ -1,4 +1,6 @@
-description: null
+description: The MLAB module USBPDSINK01 features the TI STUSB4500 controller, offering
+  flexible USB power delivery solutions. It's ideal for device charging, scientific
+  applications, testing, and serves as a universal power source.
 github_branch: USBPDSINK01A
 github_repo: USBPDSINK01
 github_url: https://github.com/mlab-modules/USBPDSINK01
@@ -15,6 +17,17 @@ images:
 mark: 50
 mod_ibom: hw/cam_profi/USBPDSINK01-ibom.html
 mod_scheme: doc/gen/USBPDSINK01-schematic.pdf
-tags: []
+tags:
+- kicad
+- kicad-project
+- mlab
+- mlab-kicad
+- mlab-module
+- mlab-power-supply
+- power-delivery
+- power-supply
+- stusb4500
+- usb-c
+- usb-pd
 title: USBPDSINK01
-updated: '2023-08-23T22:41:39.697192+00:00'
+updated: '2023-08-25T09:05:48.230113+00:00'
