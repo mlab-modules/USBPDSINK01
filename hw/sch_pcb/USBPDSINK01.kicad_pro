@@ -55,13 +55,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "clearance|164980952|128734819|de76af37-3acb-4b56-96b8-387ab336763d|922aa547-e748-4aed-bb20-4bca6822d34b",
-        "hole_clearance|145600000|123165000|124c14df-d8b7-41fc-8b5d-9dbb5fe15acd|739e5ad7-f04c-46df-a706-7482d8a043bd",
-        "hole_clearance|145800000|123165000|124c14df-d8b7-41fc-8b5d-9dbb5fe15acd|3e1898a5-c26a-42d0-b77e-d6ddf088c9ff",
-        "hole_clearance|151200000|123165000|b2f64022-6631-41b5-a170-90af217850fb|2b5c6082-8dde-4613-b226-323f281cda59",
-        "hole_clearance|151400000|123165000|b2f64022-6631-41b5-a170-90af217850fb|09bb46dd-2dc8-4765-9ac1-d990388f138a"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -457,7 +451,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "../../../../../",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
