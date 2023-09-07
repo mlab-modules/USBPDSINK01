@@ -2,17 +2,17 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/USBPDSINK01.kicad_sch</source>
-    <date>Wed Sep  6 21:09:22 2023</date>
+    <date>Thu Sep  7 21:02:07 2023</date>
     <tool>Eeschema 7.0.7-7.0.7~ubuntu23.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>USBPDSINK01A</title>
-        <company>www.mlab.cz</company>
+        <company>roman-dvorak &lt;romandvorak@mlab.cz&gt;</company>
         <rev/>
         <date/>
         <source>USBPDSINK01.kicad_sch</source>
         <comment number="1" value="USB-C PD sink controller"/>
-        <comment number="2" value="roman-dvorak &lt;romandvorak@mlab.cz&gt;"/>
+        <comment number="2" value=""/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
         <comment number="5" value=""/>
