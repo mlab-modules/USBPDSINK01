@@ -15,6 +15,7 @@ images:
 mark: 50
 mod_ibom: hw/cam_profi/USBPDSINK01-ibom.html
 mod_scheme: doc/gen/USBPDSINK01-schematic.pdf
+status: 0
 tags:
 - kicad
 - kicad-project
