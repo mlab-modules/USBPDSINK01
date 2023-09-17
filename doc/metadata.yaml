@@ -1,5 +1,7 @@
 description: USB power delivery solution for charging, or as a universal power source.
 github_branch: USBPDSINK01A
+github_description: USB power delivery solution for charging, or as a universal power
+  source.
 github_repo: USBPDSINK01
 github_url: https://github.com/mlab-modules/USBPDSINK01
 homepage: false
@@ -29,4 +31,4 @@ tags:
 - usb-c
 - usb-pd
 title: USBPDSINK01
-updated: '2023-09-16T22:04:00.496085+00:00'
+updated: '2023-09-17T11:49:35.531638+00:00'
