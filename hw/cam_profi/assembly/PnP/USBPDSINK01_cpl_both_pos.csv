@@ -15,7 +15,7 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "FID2","Fiducial","Fiducial_1mm_Mask2mm",32.2000,12.9800,180.0000,bottom
 "FID3","Fiducial","Fiducial_1mm_Mask2mm",35.1000,32.3800,180.0000,bottom
 "J1","USBC_USB4105-GF-A","USBC GCT_USB4105-GF-A",25.4000,8.1350,180.0000,bottom
-"J2","HEADER_2x05_PARALLEL","PinHeader_2x05_P2.54mm_Vertical",30.4750,52.5000,-90.0000,top
+"J2","HEADER_2x05_PARALLEL","PinHeader_2x05_P2.54mm_Vertical",30.4750,52.3800,-90.0000,top
 "J3","HEADER_2x04_PARALLEL","PinHeader_2x04_P2.54mm_Vertical",40.0000,24.1000,0.0000,top
 "J4","HEADER_2x03_PARALLEL","PinHeader_2x03_P2.54mm_Vertical",10.6000,39.6550,180.0000,top
 "J5","HEADER_2x01","PinHeader_2x01_P2.54mm_Vertical",24.0000,16.5700,0.0000,top
