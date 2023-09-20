@@ -3,7 +3,7 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "C2","1u","C_0805_2012Metric",30.7500,30.4800,0.0000,bottom
 "C4","100n","C_0805_2012Metric",37.0000,21.8500,90.0000,bottom
 "C5","10u","C_0805_2012Metric",36.8500,36.2300,180.0000,bottom
-"C6","10u","C_0805_2012Metric",36.0000,28.1300,90.0000,bottom
+"C6","10u","C_0805_2012Metric",36.0000,26.9300,90.0000,bottom
 "C7","1u","C_0805_2012Metric",30.7500,28.1900,0.0000,bottom
 "C8","1u","C_0805_2012Metric",25.2500,23.8500,180.0000,bottom
 "D1","RED","LED_1206_mill",10.3900,32.5150,0.0000,bottom
@@ -29,11 +29,11 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "M4","HOLE","MountingHole_3mm",40.6400,10.1600,0.0000,top
 "Q2","IRF9317TRPBF","SOIC-8_3.9x4.9mm_P1.27mm",34.2950,17.3650,0.0000,bottom
 "R1","100k","R_0805_2012Metric",26.6625,35.6800,180.0000,bottom
-"R3","65R","R_0805_2012Metric",11.3000,15.7825,90.0000,bottom
+"R3","62R","R_0805_2012Metric",11.3000,15.7825,90.0000,bottom
 "R4","R10","R_0805_2012Metric",8.6000,15.8125,90.0000,bottom
-"R5","65R","R_0805_2012Metric",9.4200,35.7900,-90.0000,bottom
-"R6","65R","R_0805_2012Metric",11.4700,35.8025,-90.0000,bottom
-"R7","60R","R_0805_2012Metric",7.3700,35.7900,-90.0000,bottom
+"R5","62R","R_0805_2012Metric",9.4200,35.7900,-90.0000,bottom
+"R6","62R","R_0805_2012Metric",11.4700,35.8025,-90.0000,bottom
+"R7","62R","R_0805_2012Metric",7.3700,35.7900,-90.0000,bottom
 "R8","1k","R_0805_2012Metric",35.6125,13.6000,180.0000,bottom
 "R9","1k","R_0805_2012Metric",27.3000,20.3375,90.0000,bottom
 "R10","100k","R_0805_2012Metric",30.2000,21.1000,0.0000,bottom
@@ -50,4 +50,4 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "R21","4k7","R_0805_2012Metric",14.4100,14.1425,90.0000,bottom
 "R22","100k","R_0805_2012Metric",30.2125,34.4800,180.0000,bottom
 "U1","STUSB4500QTR","QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm",26.0250,29.0250,90.0000,bottom
-"U2","NCP1117-3.3","SOT-223-3_TabPin2",40.7000,30.7800,90.0000,bottom
+"U2","NCV4274CST33T3G","SOT-223-3_TabPin2",40.7000,30.7800,90.0000,bottom

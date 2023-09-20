@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/USBPDSINK01.kicad_sch</source>
-    <date>Mon Sep 11 00:56:51 2023</date>
+    <date>Wed Sep 20 19:49:23 2023</date>
     <tool>Eeschema 7.0.7-7.0.7~ubuntu23.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -30,10 +30,11 @@
       <fields>
         <field name="MFPN">C0805 1u</field>
         <field name="MPN">C0805 1u</field>
+        <field name="UST_ID">5c70984712875079b91f8b50</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="MFPN" value="C0805 1u"/>
-      <property name="UST_ID" value=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b50"/>
       <property name="MPN" value="C0805 1u"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
@@ -48,10 +49,11 @@
       <fields>
         <field name="MFPN">C0805 1u</field>
         <field name="MPN">C0805 1u</field>
+        <field name="UST_ID">5c70984712875079b91f8b50</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="MFPN" value="C0805 1u"/>
-      <property name="UST_ID" value=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b50"/>
       <property name="MPN" value="C0805 1u"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
@@ -66,10 +68,11 @@
       <fields>
         <field name="MFPN">C0805 100n</field>
         <field name="MPN">C0805 100n</field>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="MFPN" value="C0805 100n"/>
-      <property name="UST_ID" value=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="MPN" value="C0805 100n"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
@@ -84,10 +87,11 @@
       <fields>
         <field name="MFPN">C0805 10u</field>
         <field name="MPN">C0805 10u</field>
+        <field name="UST_ID">5c70984712875079b91f8b53</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="MFPN" value="C0805 10u"/>
-      <property name="UST_ID" value=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b53"/>
       <property name="MPN" value="C0805 10u"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
@@ -102,10 +106,11 @@
       <fields>
         <field name="MFPN">C0805 10u</field>
         <field name="MPN">C0805 10u</field>
+        <field name="UST_ID">5c70984712875079b91f8b53</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="MFPN" value="C0805 10u"/>
-      <property name="UST_ID" value=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b53"/>
       <property name="MPN" value="C0805 10u"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
@@ -120,10 +125,11 @@
       <fields>
         <field name="MFPN">C0805 1u</field>
         <field name="MPN">C0805 1u</field>
+        <field name="UST_ID">5c70984712875079b91f8b50</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="MFPN" value="C0805 1u"/>
-      <property name="UST_ID" value=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b50"/>
       <property name="MPN" value="C0805 1u"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
@@ -138,10 +144,11 @@
       <fields>
         <field name="MFPN">C0805 1u</field>
         <field name="MPN">C0805 1u</field>
+        <field name="UST_ID">5c70984712875079b91f8b50</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="MFPN" value="C0805 1u"/>
-      <property name="UST_ID" value=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b50"/>
       <property name="MPN" value="C0805 1u"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
@@ -156,10 +163,11 @@
       <fields>
         <field name="MFPN">KPTR-3216SURCK</field>
         <field name="MPN">KPTR-3216SURCK</field>
+        <field name="UST_ID">64ab2fba76c82a1d3b57877d</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="MFPN" value="KPTR-3216SURCK"/>
-      <property name="UST_ID" value=""/>
+      <property name="UST_ID" value="64ab2fba76c82a1d3b57877d"/>
       <property name="MPN" value="KPTR-3216SURCK"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
@@ -174,10 +182,11 @@
       <fields>
         <field name="MFPN">KPTR-3216SYCK</field>
         <field name="MPN">KPTR-3216SYCK</field>
+        <field name="UST_ID">650b4b13462c6d9e7205456a</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="MFPN" value="KPTR-3216SYCK"/>
-      <property name="UST_ID" value=""/>
+      <property name="UST_ID" value="650b4b13462c6d9e7205456a"/>
       <property name="MPN" value="KPTR-3216SYCK"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
@@ -192,10 +201,11 @@
       <fields>
         <field name="MFPN">KPTR-3216QBC-D</field>
         <field name="MPN">KPTR-3216QBC-D</field>
+        <field name="UST_ID">650b4b9e462c6d9e7205459d</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="MFPN" value="KPTR-3216QBC-D"/>
-      <property name="UST_ID" value=""/>
+      <property name="UST_ID" value="650b4b9e462c6d9e7205459d"/>
       <property name="MPN" value="KPTR-3216QBC-D"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
@@ -210,10 +220,11 @@
       <fields>
         <field name="MFPN">KPTR-3216SURCK</field>
         <field name="MPN">KPTR-3216SURCK</field>
+        <field name="UST_ID">64ab2fba76c82a1d3b57877d</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="MFPN" value="KPTR-3216SURCK"/>
-      <property name="UST_ID" value=""/>
+      <property name="UST_ID" value="64ab2fba76c82a1d3b57877d"/>
       <property name="MPN" value="KPTR-3216SURCK"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
@@ -228,10 +239,11 @@
       <fields>
         <field name="MFPN">KPTR-3216CGCK</field>
         <field name="MPN">KPTR-3216CGCK</field>
+        <field name="UST_ID">64ab2ec176c82a1d3b57875b</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="MFPN" value="KPTR-3216CGCK"/>
-      <property name="UST_ID" value=""/>
+      <property name="UST_ID" value="64ab2ec176c82a1d3b57875b"/>
       <property name="MPN" value="KPTR-3216CGCK"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
@@ -563,10 +575,11 @@
       <fields>
         <field name="MFPN">R0805 100K 1%</field>
         <field name="MPN">R0805 100K 1%</field>
+        <field name="UST_ID">639ed3d540d28a66c9e88a9e</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="MFPN" value="R0805 100K 1%"/>
-      <property name="UST_ID" value=""/>
+      <property name="UST_ID" value="639ed3d540d28a66c9e88a9e"/>
       <property name="MPN" value="R0805 100K 1%"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
@@ -576,16 +589,17 @@
       <tstamps>75b4ce5c-8026-4024-bbca-792f166995f6</tstamps>
     </comp>
     <comp ref="R3">
-      <value>65R</value>
+      <value>62R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="MFPN">R0805 65R 1%</field>
-        <field name="MPN">R0805 65R 1%</field>
+        <field name="MFPN">R0805 62R 1%</field>
+        <field name="MPN">R0805 62R 1%</field>
+        <field name="UST_ID">5c70984512875079b91f8974</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="MFPN" value="R0805 65R 1%"/>
-      <property name="UST_ID" value=""/>
-      <property name="MPN" value="R0805 65R 1%"/>
+      <property name="MFPN" value="R0805 62R 1%"/>
+      <property name="UST_ID" value="5c70984512875079b91f8974"/>
+      <property name="MPN" value="R0805 62R 1%"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -599,10 +613,11 @@
       <fields>
         <field name="MFPN">R0805 10R 1%</field>
         <field name="MPN">R0805 10R 1%</field>
+        <field name="UST_ID">5c70984512875079b91f896d</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="MFPN" value="R0805 10R 1%"/>
-      <property name="UST_ID" value=""/>
+      <property name="UST_ID" value="5c70984512875079b91f896d"/>
       <property name="MPN" value="R0805 10R 1%"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
@@ -612,16 +627,17 @@
       <tstamps>9253b3bd-0ba3-45ca-9e53-f5f54070bc80</tstamps>
     </comp>
     <comp ref="R5">
-      <value>65R</value>
+      <value>62R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="MFPN">R0805 65R 1%</field>
-        <field name="MPN">R0805 65R 1%</field>
+        <field name="MFPN">R0805 62R 1%</field>
+        <field name="MPN">R0805 62R 1%</field>
+        <field name="UST_ID">5c70984512875079b91f8974</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="MFPN" value="R0805 65R 1%"/>
-      <property name="UST_ID" value=""/>
-      <property name="MPN" value="R0805 65R 1%"/>
+      <property name="MFPN" value="R0805 62R 1%"/>
+      <property name="UST_ID" value="5c70984512875079b91f8974"/>
+      <property name="MPN" value="R0805 62R 1%"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -630,16 +646,17 @@
       <tstamps>73eb6c8d-35e6-4c42-bdd4-fbdc8f5ba3f1</tstamps>
     </comp>
     <comp ref="R6">
-      <value>65R</value>
+      <value>62R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="MFPN">R0805 65R 1%</field>
-        <field name="MPN">R0805 65R 1%</field>
+        <field name="MFPN">R0805 62R 1%</field>
+        <field name="MPN">R0805 62R 1%</field>
+        <field name="UST_ID">5c70984512875079b91f8974</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="MFPN" value="R0805 65R 1%"/>
-      <property name="UST_ID" value=""/>
-      <property name="MPN" value="R0805 65R 1%"/>
+      <property name="MFPN" value="R0805 62R 1%"/>
+      <property name="UST_ID" value="5c70984512875079b91f8974"/>
+      <property name="MPN" value="R0805 62R 1%"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -648,16 +665,17 @@
       <tstamps>5b4c545b-022a-43a2-9e5b-ba045858a4df</tstamps>
     </comp>
     <comp ref="R7">
-      <value>60R</value>
+      <value>62R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="MFPN">R0805 60R 1%</field>
-        <field name="MPN">R0805 60R 1%</field>
+        <field name="MFPN">R0805 62R 1%</field>
+        <field name="MPN">R0805 62R 1%</field>
+        <field name="UST_ID">5c70984512875079b91f8974</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="MFPN" value="R0805 60R 1%"/>
-      <property name="UST_ID" value=""/>
-      <property name="MPN" value="R0805 60R 1%"/>
+      <property name="MFPN" value="R0805 62R 1%"/>
+      <property name="UST_ID" value="5c70984512875079b91f8974"/>
+      <property name="MPN" value="R0805 62R 1%"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -671,10 +689,11 @@
       <fields>
         <field name="MFPN">R0805 1k 1%</field>
         <field name="MPN">R0805 1k 1%</field>
+        <field name="UST_ID">5c70984512875079b91f898c</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="MFPN" value="R0805 1k 1%"/>
-      <property name="UST_ID" value=""/>
+      <property name="UST_ID" value="5c70984512875079b91f898c"/>
       <property name="MPN" value="R0805 1k 1%"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
@@ -689,10 +708,11 @@
       <fields>
         <field name="MFPN">R0805 1k 1%</field>
         <field name="MPN">R0805 1k 1%</field>
+        <field name="UST_ID">5c70984512875079b91f898c</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="MFPN" value="R0805 1k 1%"/>
-      <property name="UST_ID" value=""/>
+      <property name="UST_ID" value="5c70984512875079b91f898c"/>
       <property name="MPN" value="R0805 1k 1%"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
@@ -707,10 +727,11 @@
       <fields>
         <field name="MFPN">R0805 100K 1%</field>
         <field name="MPN">R0805 100K 1%</field>
+        <field name="UST_ID">639ed3d540d28a66c9e88a9e</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="MFPN" value="R0805 100K 1%"/>
-      <property name="UST_ID" value=""/>
+      <property name="UST_ID" value="639ed3d540d28a66c9e88a9e"/>
       <property name="MPN" value="R0805 100K 1%"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
@@ -725,10 +746,11 @@
       <fields>
         <field name="MFPN">R0805 100R 1%</field>
         <field name="MPN">R0805 100R 1%</field>
+        <field name="UST_ID">5c70984512875079b91f8977</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="MFPN" value="R0805 100R 1%"/>
-      <property name="UST_ID" value=""/>
+      <property name="UST_ID" value="5c70984512875079b91f8977"/>
       <property name="MPN" value="R0805 100R 1%"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
@@ -743,10 +765,11 @@
       <fields>
         <field name="MFPN">R0805 20k 1%</field>
         <field name="MPN">R0805 20k 1%</field>
+        <field name="UST_ID">5c70984612875079b91f89a3</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="MFPN" value="R0805 20k 1%"/>
-      <property name="UST_ID" value=""/>
+      <property name="UST_ID" value="5c70984612875079b91f89a3"/>
       <property name="MPN" value="R0805 20k 1%"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
@@ -761,10 +784,11 @@
       <fields>
         <field name="MFPN">R0805 4k7 1%</field>
         <field name="MPN">R0805 4k7 1%</field>
+        <field name="UST_ID">5c70984612875079b91f8995</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="MFPN" value="R0805 4k7 1%"/>
-      <property name="UST_ID" value=""/>
+      <property name="UST_ID" value="5c70984612875079b91f8995"/>
       <property name="MPN" value="R0805 4k7 1%"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
@@ -779,10 +803,11 @@
       <fields>
         <field name="MFPN">R0805 4k7 1%</field>
         <field name="MPN">R0805 4k7 1%</field>
+        <field name="UST_ID">5c70984612875079b91f8995</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="MFPN" value="R0805 4k7 1%"/>
-      <property name="UST_ID" value=""/>
+      <property name="UST_ID" value="5c70984612875079b91f8995"/>
       <property name="MPN" value="R0805 4k7 1%"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
@@ -797,10 +822,11 @@
       <fields>
         <field name="MFPN">R0805 4k7 1%</field>
         <field name="MPN">R0805 4k7 1%</field>
+        <field name="UST_ID">5c70984612875079b91f8995</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="MFPN" value="R0805 4k7 1%"/>
-      <property name="UST_ID" value=""/>
+      <property name="UST_ID" value="5c70984612875079b91f8995"/>
       <property name="MPN" value="R0805 4k7 1%"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
@@ -815,10 +841,11 @@
       <fields>
         <field name="MFPN">R0805 4k7 1%</field>
         <field name="MPN">R0805 4k7 1%</field>
+        <field name="UST_ID">5c70984612875079b91f8995</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="MFPN" value="R0805 4k7 1%"/>
-      <property name="UST_ID" value=""/>
+      <property name="UST_ID" value="5c70984612875079b91f8995"/>
       <property name="MPN" value="R0805 4k7 1%"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
@@ -833,10 +860,11 @@
       <fields>
         <field name="MFPN">R0805 4k7 1%</field>
         <field name="MPN">R0805 4k7 1%</field>
+        <field name="UST_ID">5c70984612875079b91f8995</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="MFPN" value="R0805 4k7 1%"/>
-      <property name="UST_ID" value=""/>
+      <property name="UST_ID" value="5c70984612875079b91f8995"/>
       <property name="MPN" value="R0805 4k7 1%"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
@@ -851,10 +879,11 @@
       <fields>
         <field name="MFPN">R0805 4k7 1%</field>
         <field name="MPN">R0805 4k7 1%</field>
+        <field name="UST_ID">5c70984612875079b91f8995</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="MFPN" value="R0805 4k7 1%"/>
-      <property name="UST_ID" value=""/>
+      <property name="UST_ID" value="5c70984612875079b91f8995"/>
       <property name="MPN" value="R0805 4k7 1%"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
@@ -869,10 +898,11 @@
       <fields>
         <field name="MFPN">R0805 4k7 1%</field>
         <field name="MPN">R0805 4k7 1%</field>
+        <field name="UST_ID">5c70984612875079b91f8995</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="MFPN" value="R0805 4k7 1%"/>
-      <property name="UST_ID" value=""/>
+      <property name="UST_ID" value="5c70984612875079b91f8995"/>
       <property name="MPN" value="R0805 4k7 1%"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
@@ -887,10 +917,11 @@
       <fields>
         <field name="MFPN">R0805 4k7 1%</field>
         <field name="MPN">R0805 4k7 1%</field>
+        <field name="UST_ID">5c70984612875079b91f8995</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="MFPN" value="R0805 4k7 1%"/>
-      <property name="UST_ID" value=""/>
+      <property name="UST_ID" value="5c70984612875079b91f8995"/>
       <property name="MPN" value="R0805 4k7 1%"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
@@ -905,10 +936,11 @@
       <fields>
         <field name="MFPN">R0805 4k7 1%</field>
         <field name="MPN">R0805 4k7 1%</field>
+        <field name="UST_ID">5c70984612875079b91f8995</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="MFPN" value="R0805 4k7 1%"/>
-      <property name="UST_ID" value=""/>
+      <property name="UST_ID" value="5c70984612875079b91f8995"/>
       <property name="MPN" value="R0805 4k7 1%"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
@@ -923,10 +955,11 @@
       <fields>
         <field name="MFPN">R0805 100K 1%</field>
         <field name="MPN">R0805 100K 1%</field>
+        <field name="UST_ID">639ed3d540d28a66c9e88a9e</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="MFPN" value="R0805 100K 1%"/>
-      <property name="UST_ID" value=""/>
+      <property name="UST_ID" value="639ed3d540d28a66c9e88a9e"/>
       <property name="MPN" value="R0805 100K 1%"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
@@ -956,22 +989,22 @@
       <tstamps>9fd7fe40-f6de-4ac2-ba88-01f408f28cba</tstamps>
     </comp>
     <comp ref="U2">
-      <value>NCP1117-3.3</value>
+      <value>NCV4274CST33T3G</value>
       <footprint>Package_TO_SOT_SMD:SOT-223-3_TabPin2</footprint>
-      <datasheet>http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF</datasheet>
+      <datasheet>https://cz.mouser.com/datasheet/2/308/1/NCV4274C_D-2317600.pdf</datasheet>
       <fields>
-        <field name="MFPN">NCP1117DT33G</field>
-        <field name="MPN">NCP1117DT33G</field>
-        <field name="UST_ID">5c70984712875079b91f8af9</field>
+        <field name="MFPN">NCV4274CST33T3G</field>
+        <field name="MPN">NCV4274CST33T3G</field>
+        <field name="UST_ID">650b45d7462c6d9e720544df</field>
       </fields>
-      <libsource lib="Regulator_Linear" part="NCP1117-3.3_SOT223" description="1A Low drop-out regulator, Fixed Output 3.3V, SOT-223"/>
-      <property name="MFPN" value="NCP1117DT33G"/>
-      <property name="UST_ID" value="5c70984712875079b91f8af9"/>
-      <property name="MPN" value="NCP1117DT33G"/>
+      <libsource lib="Regulator_Linear" part="LM2936-3.3" description="50mA Ultra-Low Quiescent Current LDO Voltage Regulator, 3.3V fixed output, TO-252/SOT-223"/>
+      <property name="MFPN" value="NCV4274CST33T3G"/>
+      <property name="UST_ID" value="650b45d7462c6d9e720544df"/>
+      <property name="MPN" value="NCV4274CST33T3G"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USBPDSINK01.kicad_sch"/>
-      <property name="ki_description" value="1A Low drop-out regulator, Fixed Output 3.3V, SOT-223"/>
-      <property name="ki_keywords" value="REGULATOR LDO 3.3V"/>
+      <property name="ki_description" value="50mA Ultra-Low Quiescent Current LDO Voltage Regulator, 3.3V fixed output, TO-252/SOT-223"/>
+      <property name="ki_keywords" value="linear regulator ldo fixed positive"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>46111122-df5e-474d-bfad-73bb67d31e18</tstamps>
     </comp>
@@ -1268,22 +1301,22 @@
         <field name="Datasheet">~</field>
       </fields>
     </libpart>
-    <libpart lib="Regulator_Linear" part="NCP1117-3.3_SOT223">
-      <description>1A Low drop-out regulator, Fixed Output 3.3V, SOT-223</description>
-      <docs>http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF</docs>
+    <libpart lib="Regulator_Linear" part="LM2936-3.3">
+      <description>50mA Ultra-Low Quiescent Current LDO Voltage Regulator, 3.3V fixed output, TO-252/SOT-223</description>
+      <docs>http://www.ti.com/lit/ds/symlink/lm2936.pdf</docs>
       <footprints>
-        <fp>SOT?223*TabPin2*</fp>
+        <fp>TO?252*</fp>
+        <fp>SOT?223*</fp>
       </footprints>
       <fields>
         <field name="Reference">U</field>
-        <field name="Value">NCP1117-3.3_SOT223</field>
-        <field name="Footprint">Package_TO_SOT_SMD:SOT-223-3_TabPin2</field>
-        <field name="Datasheet">http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF</field>
+        <field name="Value">LM2936-3.3</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/lm2936.pdf</field>
       </fields>
       <pins>
-        <pin num="1" name="GND" type="power_in"/>
-        <pin num="2" name="VO" type="power_out"/>
-        <pin num="3" name="VI" type="power_in"/>
+        <pin num="1" name="VI" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="VO" type="power_out"/>
       </pins>
     </libpart>
   </libparts>
@@ -1313,7 +1346,7 @@
       <node ref="R5" pin="1" pintype="passive"/>
       <node ref="R6" pin="1" pintype="passive"/>
       <node ref="R7" pin="1" pintype="passive"/>
-      <node ref="U2" pin="2" pinfunction="VO" pintype="power_out"/>
+      <node ref="U2" pin="3" pinfunction="VO" pintype="power_out"/>
     </net>
     <net code="2" name="/ADDR0">
       <node ref="JP1" pin="1" pinfunction="A" pintype="passive"/>
@@ -1435,7 +1468,7 @@
       <node ref="R22" pin="1" pintype="passive"/>
       <node ref="U1" pin="10" pinfunction="GND" pintype="power_in"/>
       <node ref="U1" pin="25" pinfunction="GND" pintype="passive"/>
-      <node ref="U2" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="2" pinfunction="GND" pintype="power_in"/>
     </net>
     <net code="17" name="Net-(C4-Pad2)">
       <node ref="C4" pin="2" pintype="passive"/>
@@ -1506,7 +1539,7 @@
       <node ref="R10" pin="1" pintype="passive"/>
       <node ref="R9" pin="1" pintype="passive"/>
       <node ref="U1" pin="24" pinfunction="VDD" pintype="power_in"/>
-      <node ref="U2" pin="3" pinfunction="VI" pintype="power_in"/>
+      <node ref="U2" pin="1" pinfunction="VI" pintype="power_in"/>
     </net>
     <net code="31" name="VCC">
       <node ref="C7" pin="1" pintype="passive"/>
