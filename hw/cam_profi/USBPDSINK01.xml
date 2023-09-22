@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/USBPDSINK01.kicad_sch</source>
-    <date>Wed Sep 20 19:49:23 2023</date>
+    <date>Fri Sep 22 12:01:29 2023</date>
     <tool>Eeschema 7.0.7-7.0.7~ubuntu23.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -608,7 +608,7 @@
       <tstamps>ffef39d6-9592-4198-8d74-92b0f2a5c7d6</tstamps>
     </comp>
     <comp ref="R4">
-      <value>R10</value>
+      <value>10R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="MFPN">R0805 10R 1%</field>
