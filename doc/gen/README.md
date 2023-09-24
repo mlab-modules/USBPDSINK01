@@ -51,7 +51,7 @@ Via: 0.5/0.3 mm (20/12 mils)
 - By design rules: 0.5/0.3 mm (20/12 mils)
 - Micro via: yes [0.2/0.1 mm (8/4 mils)]
 - Buried/blind via: yes
-- Total: 47 (thru: 47 buried/blind: 0 micro: 0)
+- Total: 48 (thru: 48 buried/blind: 0 micro: 0)
 
 Outer Annular Ring: 0.05 mm (2 mils)
 
@@ -91,7 +91,7 @@ Defined vias:
 Used vias:
 
 - 0.5/0.3 mm (20/12 mils) (Count: 28, Aspect: 3.2 A) defined: yes
-- 0.8/0.4 mm (31/16 mils) (Count: 19, Aspect: 2.0 A) defined: yes
+- 0.8/0.4 mm (31/16 mils) (Count: 20, Aspect: 2.0 A) defined: yes
 
 Holes (excluding vias):
 
@@ -108,7 +108,7 @@ Oval holes:
 Drill tools (including vias and computing adjusts and rounding):
 
 - 0.4 mm (16 mils) (28)
-- 0.5 mm (20 mils) (19)
+- 0.5 mm (20 mils) (20)
 - 0.65 mm (26 mils) (2)
 - 0.7 mm (28 mils) (4)
 - 1.1 mm (43 mils) (45)
