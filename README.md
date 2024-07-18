@@ -1,6 +1,6 @@
 # USBPDSINK01 - USB Power Delivery sink controller
 
-The [MLAB](https://www.mlab.cz) module [USBPDSINK01](https://www.mlab.cz/module/USBPDSINK01) is a powerful module containing the [TI STUSB4500](https://www.st.com/en/interfaces-and-transceivers/stusb4500.html) [power-delivery sink controller](https://en.wikipedia.org/wiki/USB_hardware#USB_Power_Delivery). The module is designed to provide a flexible and reliable solution for various applications requiring USB power delivery PD2 and PD3 protocols. 
+The [MLAB](https://www.mlab.cz) module [USBPDSINK01](https://www.mlab.cz/module/USBPDSINK01) is a powerful module containing the [STUSB4500](https://www.st.com/en/interfaces-and-transceivers/stusb4500.html) [power-delivery sink controller](https://en.wikipedia.org/wiki/USB_hardware#USB_Power_Delivery). The module is designed to provide a flexible and reliable solution for various applications requiring USB power delivery PD2 and PD3 protocols. 
 
 <img src="doc/gen/img/USBPDSINK01-top.png" width="49%"/> <img src="doc/gen/img/USBPDSINK01-bottom.png" width="49%"/> 
 
