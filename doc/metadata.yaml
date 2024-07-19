@@ -5,6 +5,7 @@ github_description: USB power delivery solution for charging, or as a universal 
 github_repo: USBPDSINK01
 github_url: https://github.com/mlab-modules/USBPDSINK01
 homepage: false
+image_title: doc/img/USBPDSINK01_render_01.png
 images:
 - doc/gen/img/USBPDSINK01-top.png
 - doc/gen/img/USBPDSINK01-bottom.png
